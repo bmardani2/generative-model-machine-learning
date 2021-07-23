@@ -2,3 +2,6 @@
 
 # Codde consist of two classes for generative approach without naive bayes assumption and generative approache without naive bayes assumption.
 # Also I assume we have more than two classes.
+
+# generative approache without naive bayes assumption.
+# generative approach without naive bayes assumption.
